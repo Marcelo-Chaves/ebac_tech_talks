@@ -1,0 +1,19 @@
+{
+  "name": "landing-page_ebac",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.4",
+    "parcel": "^2.16.4",
+    "python": "^0.0.4",
+    "sass": "^1.97.3",
+    "sharp": "^0.33.5"
+  }
+}
